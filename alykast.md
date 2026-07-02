@@ -1,6 +1,6 @@
 # Alykast Studios
 - - -
-# # Projects
+## Projects
 * Dojan (OS)
 * * Dojan Standard
 * * Dojan Lite
@@ -28,7 +28,7 @@
 
 --
 
-# # Games
+## Games
 * NecroChasm (FOSS Doom Legacy-based first-person shooter with mod support)
 * Korhonen (platformer series)
 * * Korhonen: Wra-volution
@@ -38,12 +38,12 @@
 * Korhonen Racing KartZ (kart racing game)
 * Vuo Sports (family sports game with gamepad and motion controls support)
 
-# # # Side project games
+### Side project games
 * RetroTux (demake of SuperTux for Sega Master System and PC)
 * RetroTuxKart (demake of SuperTuxKart for Sega Genesis and PC)
 * Xash Animator (Xash3D/GoldSrc alternative to Source FilmMaker)
 
 --
 
-# # Hardware
+## Hardware
 * Vuo (cheap mid-tier PC/console with two DEs for games and work)
