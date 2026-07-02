@@ -14,6 +14,7 @@
 * * OpenGem Bliss (design)
 * * OpenGem Plan (house plans)
 * * OpenGem ArtPlace (digital board)
+* * OpenGem Space (cloud drive)
 * OpenGem Suite (Creative suite)
 * * OpenGem Pyctix (picture editor)
 * * OpenGem Curvex (vector editor)
